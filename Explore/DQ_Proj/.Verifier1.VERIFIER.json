@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8OAmEOIKSiNlUaO35KfbyI",
+    "name" : "Verifier1",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8OAmEOIKSiNlUaO35KfbyI"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
